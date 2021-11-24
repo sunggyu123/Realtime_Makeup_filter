@@ -30,7 +30,7 @@ Realtime Makeup filter using opencv
 
 > BeautyGAN 성능
 >   > 아래 그림은 기존 모델의 성능 지표
->   >   > ![Uploading original.PNG…]()
+>   >   > ![original](https://user-images.githubusercontent.com/49279776/143255012-4a6033df-0395-4381-a34c-f87dbb1a3f83.PNG)
 
 >   > 아래 그림은 vgg16모델을 vgg19모델로 변형시킨 모델의 성능 지표
 >   >   >![transfromed](https://user-images.githubusercontent.com/49279776/143254064-aeeaf1e2-85e8-48ac-904e-e20a6ced7894.PNG)
