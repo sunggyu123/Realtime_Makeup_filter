@@ -2,10 +2,15 @@
 Realtime Makeup filter using opencv
 
 > Requirements
+>   > - Webcam
 >   > - opencv 3.4
 >   > - dlib
 >   > - tensorflow 1.15
 >   > - tensorflow-gpu 1.15
+>   > - pretrained haar_cascade_frontalface model
+>   > - pretrained MTCNN model
+>   > - pretrained shape predicter 68 face landmarks
+>   > - beautyGAN model(Our fine tuned model not uploaded)
 
 > 주제 선정 이유
 >   > - 작년을 기점으로 코로나 유행이 시작된 후로 학교, 기업 등의 여러 단체에서 비대면 화상 회의 방식으로의 업무 및 수업 횟수가 증가로 저희가 진행하면서 느낀 것은 화상 강의를 진행할 때 얼굴 노출을 부담스러워 하여 마스크를 착용하거나 모자를 푹 눌러쓴 경우 혹은 아예 캠을 키지않는 상황이 발생하는 걸 발견
