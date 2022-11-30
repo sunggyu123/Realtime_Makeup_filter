@@ -42,3 +42,5 @@ Realtime Makeup filter using opencv
 
 > 최종 결과물 모습 기능
 >   > - 따라서 저희는 BeautyGAN 모델의 출력값으로 나온 이미지를 실시간 웹캠 화면에 적용시키고자 이미지 합성을 통해 진행
+> 유투브 링크 
+> https://www.youtube.com/watch?v=D79aV15hnMc
